@@ -1,4 +1,5 @@
-Time for a short history lesson. Early computers were used mostly for numerical calculations, often with military applications.
+Time for a short history lesson.
+Early computers were used mostly for numerical calculations, often with military applications.
 By the early 1950’s, some far sighted business people began to apply computers to the massive clerical effort that went into calculating the payroll for large companies, and other accounting operations.
 Writing programs for early computers was hard because, as we’ve seen, every program had to be broken down into single operations, and the writer had to keep track of where all the intermediate results would be stored.
 By the mid-1950’s systems called autocodes were beginning to appear.
